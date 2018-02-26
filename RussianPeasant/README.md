@@ -21,13 +21,13 @@ Let's try: 57 * 86
 Since 86 is even, we cross this first row out.
 
 | First Column | Second Column |
-| --- | --- |
+| :-: | :-: |
 | ~~57~~ | ~~86~~ |
 
 Again, we double the first column and divide the second in half, crossing out the row when the second column is even.
 
 | First Column | Second Column |
-| --- | --- |
+| :-: | :-: |
 | ~~57~~ | ~~86~~ |
 | 114 | 43 |
 | 228 | 21 |
@@ -39,7 +39,7 @@ Again, we double the first column and divide the second in half, crossing out th
 Now, we add up everything left in the first column.
 
 | Total |
-| --- |
+| :-: |
 | 114 |
 | 228 |
 | 912 |

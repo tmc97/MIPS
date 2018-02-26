@@ -13,14 +13,22 @@ One of many ways to calculate the product of two integers. With Russian Peasant 
 ## Example
 
 ```
-<s>57&#9;86</s><br>
+<s>57</s>&#9;86<br>
+```
 ```
 114&#9;43 <br>
+```
+```
 228&#9;21 <br>
+```
+```
 <s>456&#9;10 </s><br>
 912&#9;5 <br>
 <s> 1824&#9;2 </s><br>
 <u>+3648</u>&#9;1 <br>
 ```
+```
 4902
 ```
+Example and description from:
+http://mathforum.org/dr.math/faq/faq.peasant.html

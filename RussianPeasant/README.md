@@ -1,6 +1,5 @@
 # Russian Peasant Multiplication
 One of many ways to calculate the product of two integers. With Russian Peasant Multiplication, you only need to double and halve numbers. 
-
 ## Rules
 <ul>
 <li>Write each number at the head of a column.</li>
@@ -11,12 +10,13 @@ One of many ways to calculate the product of two integers. With Russian Peasant 
 <li>Add up the remaining numbers in the first column. The total is the product of your original numbers.</li>
 </ul>
 ### Example
-"""
+```
 <s>57 	 86</s><br>
 114 	43 <br>
 228 	21 <br>
 <s>456 	 10 </s><br>
 912 	5 <br>
 <s> 1824 	 2 </s><br>
-3648 	1 
-"""
+<u>+3648</u> 	1 <br>
+4902
+```

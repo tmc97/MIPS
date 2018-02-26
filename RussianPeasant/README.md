@@ -13,30 +13,36 @@ One of many ways to calculate the product of two integers. With Russian Peasant 
 ## Example
 Let's try: 57 * 86
 57 will be in the first column, the column that gets doubled, and 86 in the second, the column that gets halved.
-| First Column  | Second Column |
-|:-------------:|:-------------:|
-|      57       |       86      |
+
+|First Column|Second Column|
+|---|---|
+|57|86|
+
 Since 86 is even, we cross this first row out.
-| First Column  | Second Column |
-|:-------------:|:-------------:|
-|    ~~57~~     |     ~~86~~    |
-Again, we double the first column and divide the second in half, crossing out the row when the second column is even
-| First Column  | Second Column |
-|:-------------:|:-------------:|
-|    ~~57~~     |     ~~86~~    |
-|     114       |       43      |
-|     228       |       21      |
-|   ~~456~~     |     ~~10~~    |
-|     912       |        5      |
-|  ~~1824~~     |      ~~2~~    |
-|    3648       |        1      |
+
+| First Column | Second Column |
+| --- | --- |
+| ~~57~~ | ~~86~~ |
+
+Again, we double the first column and divide the second in half, crossing out the row when the second column is even.
+
+| First Column | Second Column |
+| --- | --- |
+| ~~57~~ | ~~86~~ |
+| 114 | 43 |
+| 228 | 21 |
+| ~~456~~ | ~~10~~ |
+| 912 | 5 |
+| ~~1824~~ | ~~2~~ |
+| 3648 | 1 |
+
 Now, we add up everything left in the first column.
 
-|     114       |
-|     228       |
-|     912       |
-|    +3648      |
-|     4902      |
+|114|
+|228|
+|912|
+|+3648|
+|4902|
 
 Example and description from:
 http://mathforum.org/dr.math/faq/faq.peasant.html

@@ -15,7 +15,7 @@ Let's try: 57 * 86
 57 will be in the first column, the column that gets doubled, and 86 in the second, the column that gets halved.
 
 |First Column|Second Column|
-|---|---|
+|:-:|:-:|
 |57|86|
 
 Since 86 is even, we cross this first row out.

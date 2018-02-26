@@ -37,6 +37,7 @@ Again, we double the first column and divide the second in half, crossing out th
 | 3648 | 1 |
 
 Now, we add up everything left in the first column.
+
 | --- |
 | 114 |
 | 228 |

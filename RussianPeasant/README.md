@@ -37,12 +37,12 @@ Again, we double the first column and divide the second in half, crossing out th
 | 3648 | 1 |
 
 Now, we add up everything left in the first column.
-
-|114|
-|228|
-|912|
-|+3648|
-|4902|
+| --- |
+| 114 |
+| 228 |
+| 912 |
+| +3648 |
+| 4902 |
 
 Example and description from:
 http://mathforum.org/dr.math/faq/faq.peasant.html

@@ -38,11 +38,12 @@ Again, we double the first column and divide the second in half, crossing out th
 
 Now, we add up everything left in the first column.
 
+| Total |
 | --- |
 | 114 |
 | 228 |
 | 912 |
-| +3648 |
+| <u>+3648</u> |
 | 4902 |
 
 Example and description from:

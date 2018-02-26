@@ -9,8 +9,8 @@ One of many ways to calculate the product of two integers. With Russian Peasant 
 <li>Keep doubling, halving, and crossing out until the number in the second column is 1.</li>
 <li>Add up the remaining numbers in the first column. The total is the product of your original numbers.</li>
 </ul>
-### Example
-'''
+## Example
+```
 <s>57&#9;86</s><br>
 114&#9;43 <br>
 228&#9;21 <br>
@@ -19,4 +19,4 @@ One of many ways to calculate the product of two integers. With Russian Peasant 
 <s> 1824&#9;2 </s><br>
 <u>+3648</u>&#9;1 <br>
 4902
-'''
+```
